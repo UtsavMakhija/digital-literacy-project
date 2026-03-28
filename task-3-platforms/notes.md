@@ -1,0 +1,9 @@
+- Created an account on HackerRank and completed beginner-level coding challenges
+- Successfully earned 2 badges, demonstrating basic problem-solving and programming skills
+- Practised fundamental concepts such as input/output, logic building, and simple problem-solving techniques
+- Created a Digital Literacy Awareness Quiz using Google Forms
+- Quiz includes 5 questions with a mix of:
+- Multiple-choice questions
+- Short answer questions
+- Designed the quiz to test basic awareness of digital literacy among students
+- Generated a linked Google Sheets response sheet to collect and analyze responses
