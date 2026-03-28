@@ -1,0 +1,2 @@
+Created a one-page infographic using Canva to explain the concept of digital literacy. \
+The design covers key topics such as its definition, useful tools for students, and safe internet practices, presented in a clear and visually engaging format.
