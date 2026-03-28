@@ -1,0 +1,1 @@
+Set up professional profiles on Kaggle, ResearchGate, and Stack Overflow. These platforms help in building a digital presence, learning new skills, and engaging with academic and developer communities.
